@@ -1,2 +1,6 @@
 def get_menu() :
-    return []
+    return [
+        'パン',
+        'ステーキ',
+        'スープ',
+    ]
